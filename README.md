@@ -1,4 +1,4 @@
-# Intelligent-Chatbot-using-Retrieval-Augmented-Generation-RAG-
+
 # 🤖 Intelligent-Chatbot-using-Retrieval-Augmented-Generation-RAG
 
 Harness the power of **AI + Retrieval** to get precise, document-specific answers-whether you're researching, studying, or building intelligent systems.
